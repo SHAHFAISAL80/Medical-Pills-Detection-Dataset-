@@ -1,0 +1,8 @@
+train: D:/medical pillas/medical-pills/train/images # train images (relative to 'path') 92 images
+val: D:/medical pillas/medical-pills/valid/images # val images (relative to 'path') 23 images
+test: # test images (relative to 'path')
+
+# Classes
+names:
+  0: pill
+
